@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm <a href="https://mkhazova.ru/" target="_blank">Maria Khazova</a> 
+<h2 align="center">Hi there, I'm <a href="https://ai.mkhazova.ru/" target="_blank">Maria Khazova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h4 align="left">I am a psychologist, doing my PhD in Psychology (cognitive neuroscience). Also I am a student of the course "Neural networks and their application in scientific research" of Moscow State University named after M. V. Lomonosov. </h4>
 
