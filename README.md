@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm <a href="https://mkhazova.ru/" target="_blank">Maria Khazova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h4 align="left">I am a psychologist, Master of Psychological sciences (cognitive neuroscience) and a student of the course "Neural networks and their application in scientific research" of Moscow State University named after M. V. Lomonosov. </h4>
+<h4 align="left">I am a psychologist, doing my PhD in Psychology (cognitive neuroscience) and a student of the course "Neural networks and their application in scientific research" of Moscow State University named after M. V. Lomonosov. </h4>
 
 <h4 align="left">Languages and Tools:</h4>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
